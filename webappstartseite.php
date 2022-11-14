@@ -15,6 +15,7 @@
     </title>
 </head>
 <body>
+<script type="text/babel" src="./src/index.js"></script>
 <div id="slideout-menu">
     <ul>
             <li>
